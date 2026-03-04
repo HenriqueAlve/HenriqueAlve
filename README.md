@@ -91,23 +91,7 @@ public class Developer {
 
 ## 🐍 Contribuições
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueAlve/HenriqueAlve/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueAlve/HenriqueAlve/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating commits" src="https://raw.githubusercontent.com/HenriqueAlve/HenriqueAlve/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueAlve&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
+![snake animation](https://github.com/HenriqueAlve/HenriqueAlve/blob/output/github-contribution-grid-snake2.svg)
 
 ## 📬 Onde me encontrar
 
