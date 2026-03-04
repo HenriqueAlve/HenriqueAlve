@@ -91,7 +91,7 @@ public class Developer {
 
 ## 🐍 Contribuições
 
-![snake animation](https://github.com/HenriqueAlve/HenriqueAlve/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/HenriqueAlve/HenriqueAlve/blob/main/github-contribution-grid-snake2.svg)
 
 ## 📬 Onde me encontrar
 
