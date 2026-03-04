@@ -1,3 +1,4 @@
+
 <!-- HEADER WAVE -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Java%20·%20Flutter%20·%20React&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
@@ -5,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Henrique Alves
+# 👋 Olá, eu sou **[Seu Nome]**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Back-end+Developer+%E2%98%95;Flutter+Mobile+Dev+%F0%9F%A6%8B;React+Web+Dev+%E2%9A%9B%EF%B8%8F;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -18,7 +19,7 @@
 ```java
 public class Developer {
 
-    private String nome     = "Henrique Alves";
+    private String nome     = "[Seu Nome]";
     private String foco     = "Full Stack";
     private String local    = "Brasil 🇧🇷";
 
@@ -74,16 +75,16 @@ public class Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueAlve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAlve&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAlve&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueAlve&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -92,19 +93,30 @@ public class Developer {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating commits" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueAlve/HenriqueAlve/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueAlve/HenriqueAlve/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating commits" src="https://raw.githubusercontent.com/HenriqueAlve/HenriqueAlve/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueAlve&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
 
 ## 📬 Onde me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-alves-b2b1501b6)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquaalves2020@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henriqueeealves_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEU_PORTFOLIO.dev)
 
 </div>
 
@@ -116,5 +128,5 @@ public class Developer {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=a78bfa&style=for-the-badge&label=VISITANTES" />
+  <img src="https://komarev.com/ghpvc/?username=HenriqueAlve&color=a78bfa&style=for-the-badge&label=VISITANTES" />
 </div>
