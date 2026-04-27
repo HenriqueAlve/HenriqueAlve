@@ -8,7 +8,7 @@
 
 # 👋 Olá, eu sou Henrique Alves
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Back-end+Developer+%E2%98%95;Flutter+Mobile+Dev+%F0%9F%A6%8B;React+Web+Dev+%E2%9A%9B%EF%B8%8F;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Back-end+Developer+%E2%98%95;Flutter+Mobile+Dev;React+Web+Dev+%E2%9A%9B%EF%B8%8F;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
